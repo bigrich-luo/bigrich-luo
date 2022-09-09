@@ -1,7 +1,7 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:bigrich-luo?theme=rule34">
 
 ## Shin · Full Stacked Engineer -- Jonathan(BigRich) Luo
-## 真·全栈工程师 -- 罗大富BigRich
+## 真 · 全栈工程师 -- 罗大富BigRich
 
 开源主义的践行者。
 
