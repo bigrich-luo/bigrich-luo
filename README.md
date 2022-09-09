@@ -20,4 +20,3 @@
 ![bigrich-luo's github stats](https://github-readme-stats.vercel.app/api?username=bigrich-luo&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigrich-luo&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigrich-luo&layout=compact&langs_count=6)
