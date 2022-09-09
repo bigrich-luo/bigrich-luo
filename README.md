@@ -17,7 +17,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=bigrich-luo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=bigrich-luo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![bigrich-luo's github stats](https://github-readme-stats.vercel.app/api?username=bigrich-luo&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigrich-luo)
